@@ -1,0 +1,29 @@
+1 - John Hopkins - Data de todos los paises para proyectar crecimiento por series de tiempo: 
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
+
+2 - 3 Blue 1 Brown - Refresher de como funcionan las funciones exponenciales:
+https://www.youtube.com/watch?v=Kas0tIxDvrg
+
+3 - Interesante discusion desde la perspectiva de Data Science de la pandemia:
+https://www.fast.ai/2020/03/09/coronavirus/
+
+4 - MSRI - El comportamiento exponencial de la epidemia: https://www.youtube.com/watch?v=MZ957qhzcjI
+
+5 - Como se esparce el coronavirus en distintos tipos de ambientes: 
+Aviones - https://www.nationalgeographic.com/science/2020/01/how-coronavirus-spreads-on-a-plane/
+Buses - https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay
+Aunque no esta tan seguro porque retractaron el paper al respecto recientemente: https://www.inkstonenews.com/health/medical-journal-retracts-study-how-far-coronavirus-can-spread-through-droplets/article/3074449
+
+6 - Estudio de movilidad de personas en el Peru para la Autoridad Autonoma del Tren Electrico:
+http://bigdata.aate.gob.pe:3009/
+
+7 - Explicaciones/tutoriales de los modelos SIR:
+https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+https://www.comap.com/undergraduate/projects/biomath/PDF/Disease_Outbreak_SE.pdf
+
+8 - Modelos compartimentalizados en Epidemiologia: 
+https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+
+9 - Tutorial de simulacion de modelos SIS en poblaciones cerradas:
+http://statnet.org/sb/t1.html
+
